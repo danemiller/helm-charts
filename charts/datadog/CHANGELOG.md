@@ -1,8 +1,13 @@
 # Datadog changelog
 
+
 ## 2.28.0
 
 * Create priority Class to better support environments such as GKE Autopilot.
+
+## 2.27.5
+
+* Fix bugs that prevented running the ksm core check as a cluster check.
 
 ## 2.27.4
 
