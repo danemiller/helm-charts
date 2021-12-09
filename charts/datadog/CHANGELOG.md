@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.28.0
+
+* Create priority Class to better support environments such as GKE Autopilot.
+
 ## 2.27.4
 
 * Do not allow unsupported configs with the security agent in windows environments. 
